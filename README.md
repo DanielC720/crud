@@ -54,6 +54,7 @@ Body (JSON):
   "stock": 120,
   "precio": 249.99
 }
+
 Eliminar un producto
 DELETE /api/productos/{id}
 
