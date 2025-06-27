@@ -64,7 +64,10 @@ Consola de H2
 Accede a la consola H2 desde el navegador:
 
 http://localhost:8080/h2-console
+
 JDBC URL: jdbc:h2:mem:testdb
+
 User: sa
+
 Password: (déjalo en blanco)
 
