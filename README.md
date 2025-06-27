@@ -26,7 +26,10 @@ También puedes ejecutarla desde tu IDE con el botón "Run" en la clase main Inv
 ---
 (http://localhost:8080/api/productos)
 
+Postman
+
 Endpoints disponibles
+
 Crear un producto
 POST /api/productos
 
