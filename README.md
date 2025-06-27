@@ -58,6 +58,8 @@ Body (JSON):
 Eliminar un producto
 DELETE /api/productos/{id}
 
+---
+
 Consola de H2
 Accede a la consola H2 desde el navegador:
 
